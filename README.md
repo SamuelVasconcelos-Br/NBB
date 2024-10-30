@@ -7,3 +7,6 @@ Desenvolvido em Flutter, o app NBB é uma plataforma completa para os fãs do No
 Ideal para quem quer ficar por dentro dos principais acontecimentos e evoluções do NBB, o aplicativo também traz curiosidades, informações sobre campeonatos, estatísticas e um guia dos momentos memoráveis do basquete brasileiro. Sem atualizações ao vivo, o NBB é perfeito para fãs que buscam uma visão abrangente e atemporal sobre a liga.
 
 ### Sumário da WIKI
+
+<a href="https://github.com/SamuelVasconcelos-Br/NBB/wiki/Descri%C3%A7%C3%A3o-dos-Widgets-e-elementos-da-Classe">Descrição dos Widgets:<a>
+

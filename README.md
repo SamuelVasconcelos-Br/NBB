@@ -8,5 +8,5 @@ Ideal para quem quer ficar por dentro dos principais acontecimentos e evoluçõe
 
 ### Sumário da WIKI
 
-<a href="https://github.com/SamuelVasconcelos-Br/NBB/wiki/Descri%C3%A7%C3%A3o-dos-Widgets-e-elementos-da-Classe">Descrição dos Widgets:<a>
+<a href="https://github.com/SamuelVasconcelos-Br/NBB/wiki/Descri%C3%A7%C3%A3o-dos-Widgets-e-elementos-da-Classe"> - Descrição dos Widgets<a>
 
